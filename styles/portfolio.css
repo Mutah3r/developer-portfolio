@@ -23,6 +23,8 @@ nav {
     display: flex;
     justify-content: space-between;
     margin: 50px 200px;
+    margin-top: 0px;
+    padding-top: 50px;
 }
 
 .header {
